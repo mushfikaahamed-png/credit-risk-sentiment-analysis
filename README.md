@@ -22,9 +22,9 @@ All data sourced from the FRED API (Federal Reserve Bank of St. Louis):
 
 ## Key Findings
 - Macro variables alone predict high-risk periods with **82.8% accuracy**
-- Adding consumer sentiment improves accuracy to **86%** (+3%)
+- Adding consumer sentiment improves accuracy to **85.8%** (+3.0% points, in-sample)
 - Highest predicted risk periods: **1991–1992** recession
-- Average Expected Loss across 44 years: **22.2%**
+- Average Expected Loss: **22.2%**
 
 ## Project Structure
 | File | Description |
